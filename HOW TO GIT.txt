@@ -1,0 +1,3 @@
+git clone https://github.com/MMariusP/PSMarius.git
+git commit -m "mesaj"
+git push
