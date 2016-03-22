@@ -1,1 +1,4 @@
-Testing comms
+Testing commit
+Scriem ceva in fisier (not so random)
+
+
